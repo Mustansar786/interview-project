@@ -1,0 +1,12 @@
+/* for loader center on differnt screen */
+.Loader {
+  text-align: center;
+  margin-top: 15%;
+}
+
+@media (max-width: 767px) {
+  .Loader {
+    text-align: center;
+    margin-top: 70%;
+  }
+}
